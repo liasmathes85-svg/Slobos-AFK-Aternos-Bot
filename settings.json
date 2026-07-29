@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Better__Smp.aternos.me:39685",
-    "port": 39685,
+    "ip": "",
+    "port": ,
     "version": "",
     "try-creative": false
   },
